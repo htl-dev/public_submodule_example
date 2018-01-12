@@ -1,0 +1,2 @@
+# public_submodule_example
+submodule読み込み対象サンプル
